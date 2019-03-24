@@ -1,10 +1,11 @@
 # My very first web page
 
-link of this website https://lauramika.github.io/website/
+Link: https://lauramika.github.io/website/
 
-Website contains 3 pages:   index.html
-                            stream-two
-                            stream-three
-Every page lists several icons with links of programming languages.
+Website contains 3 pages (index.html, stream-two, stream-three).
+Every page lists several icons with links of programming languages such as 
+HTML, CSS3, JavaScript, Python. You can also find here software development platform
+like GitHub, online integrated development environment Cloud9, frameworks such as Flask, 
+and database management system MySQL.
 Links lead to wiki pages where a detailed information is found about each 
-programming language.
+topic mentioned above.
